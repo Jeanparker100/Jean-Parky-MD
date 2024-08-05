@@ -2,7 +2,7 @@
 <p align="center"> Découvrez Jean-Parky-MD, conçu pour apporter un tout nouveau niveau d'excitation à votre utilisation monotone de WhatsApp.</p>
 
 <p align="center">
-  <a href="https://youtube.com/@suhailtechinfo">
+  <a href="https://youtube.com/@KambeHolmes">
     <img alt="Jean-Parky-MD docs" height="300" src="https://telegra.ph/file/097b42fcdbbb6719dcfe4.jpg">
   </a>
 </p>
@@ -14,7 +14,7 @@
   <a aria-label="Jean-Parky-MD est gratuit à utiliser" href="https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE" target="_blank">
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)" target="_blank" />
   </a>
-  <a aria-label="Jean-Parky-MD est gratuit à utiliser" href="https://youtube.com/@suhailtechinfo" target="_blank">
+  <a aria-label="Jean-Parky-MD est gratuit à utiliser" href="https://youtube.com/@KambeHolmes" target="_blank">
     <img alt="Jean Parker tech Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 </p>
