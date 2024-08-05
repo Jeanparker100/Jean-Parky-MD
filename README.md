@@ -1,90 +1,50 @@
- <h1 align="center"> Suhail Md </h1> 
-<p align="center"> Introducing Suhail_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+<h1 align="center"> Jean-Parky-MD </h1> 
+<p align="center"> Découvrez Jean-Parky-MD, conçu pour apporter un tout nouveau niveau d'excitation à votre utilisation monotone de WhatsApp.</p>
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail docs" height="300" src="https://telegra.ph/file/ec9bc5038601821f2eb84.jpg">
+    <img alt="Jean-Parky-MD docs" height="300" src="https://telegra.ph/file/097b42fcdbbb6719dcfe4.jpg">
   </a>
 </p>
    
-   
 <p align="center">
-  <a href="" target="_blank">
+  <a href="https://github.com/Jeanparker100/Jean-Parky-MD/fork" target="_blank">
     <img alt="Forks" src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md" />
   </a>
-  <a aria-label="Suhail_Md is free to use" href="https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE" target="_blank">
-    <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
+  <a aria-label="Jean-Parky-MD est gratuit à utiliser" href="https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE" target="_blank">
+    <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)" target="_blank" />
   </a>
-  <a aria-label="Suhail_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
-    <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="Jean-Parky-MD est gratuit à utiliser" href="https://youtube.com/@suhailtechinfo" target="_blank">
+    <img alt="Jean Parker tech Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
-
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{SuhailTechInfo}/count.svg" alt="SuhailTechInfo :: Visitor's Count" /></p>
 <p align="center">
  <a href="https://chat.whatsapp.com/CiqdwyiDV9eCR3xLe0Ttvi" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/Whatsapp Support Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
 ---
- 
- 
 
-
-   
- 
- 
-
- 
-
-## Bot Games
+## Jeux de Bot
 ---
-1. ***Connect Four Game.***
-2.  ***Tic Tac Toe.***
-3.  ***Number Guessing Game.***
-4.  ***Word chain Game.***
-5.  ***Hidden Queen Card.***
-6.  ***Rolling Dice.***
-6.  ***Capital of city.***
-##
+1. ***Jeu Puissance 4.***
+2. ***Tic Tac Toe.***
+3. ***Jeu de devinette de nombres.***
+4. ***Jeu de chaîne de mots.***
+5. ***Carte Reine Cachée.***
+6. ***Lancer de dés.***
+7. ***Capitale de la ville.***
 
-
-
-
-
-
-
-  
- 
-## Deployment Methods
+## Méthodes de Déploiement
 ---
-1.  ***Get [`SESSION ID 1`](https://replit.com/@SuhailTechInfo/Suhail-Md?v=1), [`SESSION ID 2`](https://replit.com/@SuhailTechInfo/Secktor-Bot?v=1) by scanning QR code. And Scan it `Go-to Whatapp>Three dots>Linked Devices`***
-2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI).***
-3.  ***Click [`FORK`](https://github.com/SuhailTechInfo/Suhail-Md/fork) and `Star ⭐ Repository` if you Like that Bot.***
-4.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
+1. ***Obtenez [`SESSION ID 1`](https://replit.com/@SuhailTechInfo/Suhail-Md?v=1), [`SESSION ID 2`](https://replit.com/@SuhailTechInfo/Secktor-Bot?v=1) en scannant le QR code. Et scannez-le `Allez sur WhatsApp > Trois points > Appareils liés`***
+2. ***Obtenez Mongodb_URI depuis [`site Mongodb`](https://www.mongodb.com/) | Regardez le tutoriel [`Pour obtenir Mongodb_URI`](https://youtu.be/6rnftFl0fAI).***
+3. ***Cliquez sur [`FORK`](https://github.com/Jeanparker100/Jean-Parky-MD/fork) et `Étoile ⭐ Dépôt` si vous aimez ce bot.***
+4. ***Tutoriel de déploiement [`Vidéo Youtube`](https://youtu.be/6rnftFl0fAI).***
+5. ***Déployez GRATUITEMENT sur `Codespace`, Regardez d'abord le [`tutoriel Codespace`](https://youtu.be/3NdJb6_1cJM)***
+6. ***Déployez sur [`HEROKU`](https://suhail-web01.vercel.app/deploy.html)***
+7. ***Déployez sur [`Replit`](https://suhail-web01.vercel.app/replit.html)***
 
-5.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
-6.  ***Deploy on [`HEROKU`](https://suhail-web01.vercel.app/deploy.html)***
-7.  ***Deploy on [`Replit`](https://suhail-web01.vercel.app/replit.html)***
-
-##
-
-
-***Use this Public MongoDb Key, If you dont have.!***
-```
-mongodb+srv://Suhail_Md:Suhail_Md@cluster1.0tlyzhm.mongodb.net/?retryWrites=true&w=majority
-```
----
-
-- Star ⭐ repo if you like this bot.
-
-
-
-### Thanks To
-- [Sam Pamday](https://github.com/Sampandey001) 
-
-
-The Suhail_Md is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE).
-
-##Deploy on [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/Suhail-Md)
+## Clé MongoDb Publique
